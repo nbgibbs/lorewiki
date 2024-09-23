@@ -1,8 +1,12 @@
 here be wiki!!!
-[[city1]]
-[[city2]]
 
-[[person1]]
-[[person2]]
-
-[[event1]]
+Cities: 
+[[Aether Reach]]
+[[Brass haren]]
+[[Cindermaw]]
+[[Gear Vault]]
+[[Iron Spire]]
+[[Mechastra]]
+[[Smokeblade]]
+[[Vault Spire]]
+[[Verdant Hearth]]

@@ -1,1 +1,0 @@
-here's stuff about city2 and a link to [[person1]]

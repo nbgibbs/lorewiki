@@ -2,7 +2,7 @@ here be wiki!!!
 
 Cities: 
 [[Aether Reach]]
-[[Brass haren]]
+[[Brass Haven]]
 [[Cindermaw]]
 [[Gear Vault]]
 [[Iron Spire]]

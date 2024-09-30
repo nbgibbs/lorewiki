@@ -1,0 +1,1 @@
+[[2b]] was found in a scrap cave here.

@@ -12,6 +12,11 @@ here be wiki!!!
 - [[Verdant Hearth]]
 # PCs
 - [[Shalók]]
+- [[Partitio]]
+- [[Iona]]
+- [[Isra]]
+- [[Rowan]]
+- [[Oyster]]
 
 # NPCs
 - [[Dr. V]]

@@ -53,7 +53,13 @@ You are all ready to go now and now I will show you how to use your setup.
 
 
 ## Lets Do It!
-fetch any changes that on GitHub (this won't actually apply any changes that are found, just checks for them) If changes are found it will prompt you to "pull" them or apply those changes. 
+
+
+![[Screenshot 2024-10-07 012340.png]]
+
+Fetch any changes that on GitHub with the button shown above (this won't actually apply any changes that are found, just checks for them). If changes are found it will prompt you to "pull" them or apply those changes. 
+
+![[Screenshot 2024-10-07 011331.png]]
 
 Make changes to the content in Obsidian. GitHub Desktop will track all of the changes that are made.
 
@@ -66,3 +72,7 @@ When you are finished, you must commit the changes you have made by typing a sum
 At this point the changes are tracked by git but they are still only on your local computer. You will need to "push" the changes to GitHub.
 
 ![[Screenshot 2024-10-07 010518.png]]
+
+Congratulations!!! You've done it!!!
+
+Let me know if you have any questions!

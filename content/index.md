@@ -10,6 +10,7 @@ here be wiki!!!
 - [[Smokeblade]]
 - [[Vault Spire]]
 - [[Verdant Hearth]]
+- [[Gilden Reach]]
 # PCs
 - [[Shalók]]
 - [[Partitio]]
@@ -20,3 +21,9 @@ here be wiki!!!
 
 # NPCs
 - [[Dr. V]]
+- [[Magnus Steelmantle]]
+- [[Richard Phillips]]
+- [[Reginald Lancelliot]]
+- [[Sir Oswald Corvex the 3rd]]
+
+

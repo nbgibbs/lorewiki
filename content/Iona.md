@@ -1,1 +1,1 @@
-[[Rusty]]
+![[Iona.jpg]][[Rusty]]

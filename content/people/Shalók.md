@@ -1,4 +1,7 @@
-![[shalok.png]]Full name in the [[Speech of the Trees]]: Shèrkérntért'chèrsh'kérsh'kèrk'k
+![[shalok.png|500]]
+[[shalok.png|full size]]
+
+Full name in the [[Speech of the Trees]]: Shèrkérntért'chèrsh'kérsh'kèrk'k
 
 Emerged from the forest around 6 months ago.
 

@@ -26,4 +26,7 @@ here be wiki!!!
 - [[Reginald Lancelliot]]
 - [[Sir Oswald Corvex the 3rd]]
 
+# Contributing
+- [[Contributing]]
+
 

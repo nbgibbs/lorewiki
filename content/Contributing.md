@@ -52,19 +52,17 @@ You are all ready to go now and now I will show you how to use your setup.
 	- commits are like save files that record all changes that are made
 
 
-## Step 1
+## Lets Do It!
 fetch any changes that on GitHub (this won't actually apply any changes that are found, just checks for them) If changes are found it will prompt you to "pull" them or apply those changes. 
 
 Make changes to the content in Obsidian. GitHub Desktop will track all of the changes that are made.
 
 ![[Screenshot 2024-10-07 003300.png]]
 
-When you are finished, you must commit the changes you have made by typing a summary of your changes in the box (not the best practice but half of the time I just put "update") the more info you put here the easier it is to keep track of everything, but don't sweat it.
+When you are finished, you must commit the changes you have made by typing a summary of your changes in the box (not the best practice but half of the time I just put "update") the more info you put here the easier it is to keep track of everything, but don't sweat it. Click commit to v4 (v4 being the main branch we are using)
 
 ![[Screenshot 2024-10-07 010222.png]]
 
-Click commit to v4 (v4 being the main branch we are using)
-
-
-
 At this point the changes are tracked by git but they are still only on your local computer. You will need to "push" the changes to GitHub.
+
+![[Screenshot 2024-10-07 010518.png]]

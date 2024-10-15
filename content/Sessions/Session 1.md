@@ -1,0 +1,1 @@
+We met [[Dr. V]] and traveled to the [[Ashen Depths]] in search of [[2b]].

@@ -7,7 +7,7 @@ here be wiki!!!
 - [[Gear Vault]]
 - [[Iron Spire]]
 - [[Mechastra]]
-- [[Smokeblade]]
+- [[Smokestack]]
 - [[Vault Spire]]
 - [[Verdant Hearth]]
 - [[Gilden Reach]]

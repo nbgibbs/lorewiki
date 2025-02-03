@@ -70,7 +70,7 @@ Corgi sizzed. Pearls
 
 \- [[Johnny the Explorer]]
 
-![[cyclops spider.png]]
+
 
 
 
@@ -80,6 +80,8 @@ Corgi sizzed. Pearls
 
 # Cyclops spiders
 Larger but not huge dog sized spiders with one large eye. no webs. Eyeball opens to reveal the mouth.
+
+![[cyclops spider.png|250]]
 
 # Big Mantis 
 

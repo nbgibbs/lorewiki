@@ -60,8 +60,37 @@ About the size of a soft ball.
 # Treasure beetles
 Territorial during mating. 
 
+Bites turns victim into gemstones. 
+
 
 # cave oysters 
+Corgi sizzed. Pearls
+
+>Chest sized
+
+\- [[Johnny the Explorer]]
+
+![[cyclops spider.png]]
+
+
+
 
 # Bilaphant. 
 6 legs. 4 tusks. 2 trunks. floppy ears. 
+
+# Cyclops spiders
+Larger but not huge dog sized spiders with one large eye. no webs. Eyeball opens to reveal the mouth.
+
+# Big Mantis 
+
+
+
+# Cat Spiders
+
+coin sized, ciders. 2 tails, 8 eyes, 8 legs.
+
+# Racoon
+Black replaced with purple. Just a racoon. Loves eating trash.
+
+# Worms
+Earthworm the size of The Explorer's forearm, blind and peaceful. Enjoys munching on dirt.

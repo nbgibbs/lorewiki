@@ -46,6 +46,8 @@ Magic beings made of scraps of other things. made of a base of bone (from other 
 
 More plant like than animal like. Not able to survive outside of the forest. [[Johnny the Explorer]] wrote about them, but experts doubt there existence.
 
+Edit: They definitely exist.
+
 # Hunyip
 Hummingbird-like creatures, but their mouths are more like that of a butterfly. They are able to fly any direction at incredible speeds, particularly aided by their five eyes. The eyes are placed around their head such that they're able to see side-to-side at all times, and straight up above them. They're well known for stealing trinkets and random non-eye-catching things. They use them as cover, attached between their scales (because feathers or fur would be rather uncomfortable) mainly because without cover, their scales are iridescent.  Based on the color of their scales, they will have a different precious gemstone in their core, only able to be extracted by taking off their scales one by one and carved out of them while they're alive. If extracted while they are dead, the structure of the gemstone will collapse in on itself and become graphite (think diamonds when they leave a volcano).
 They are fairly solitary creatures and leave their young to find for themselves, hidden among the tree canopy. (And, hey since they have butterfly mouths) Their eggs are laid in the best food storage their mother is able to hoard away. They mainly consume nectar and insects, though some have been reported to carry away small mammals

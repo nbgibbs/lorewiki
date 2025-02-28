@@ -4,6 +4,6 @@ The last area in the world where nature can be found without tampering, druids a
 
 Home to unique and [[magical creatures]]. 
 
-The city surrounding a large forest is known as Verdant Hearth. [[Lenara Moonspark]]is the governor of Verdant Hearth. In the Verdant Forest there are many strange creatures unknown to the common person.
+The city surrounding a large forest is known as Verdant Hearth. [[Lenara Moonspark]] is the governor of Verdant Hearth. In the Verdant Forest there are many strange creatures unknown to the common person.
 
 A river

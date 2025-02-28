@@ -7,6 +7,9 @@ Has the other [[shiny beetles|shiny beetle]]
 
 Drawn to [[Gilden Reach]] by fancy stuff
 
+Has a recurring [[Oyster's nightmare|nightmare]]
+
+
 
 ![[Oyster_and_Dove.jpg|500]]
 Oyster and Dove together [[Oyster_and_Dove.jpg|full size]]

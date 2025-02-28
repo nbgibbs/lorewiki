@@ -5,5 +5,6 @@ Rowan is a self styled robin hood con man who can be heard saying, “for the go
 
 “What I do is a service. I grew up real poor, ok. And the only way I could get food into my belly was to steal or con for it. Everyone takes what they can in this world so have to be willing to do the same. Your average schmuck is born into working hours on end in back breaking environments and never gets anywhere. Is it fair that the rich get everything they need and more and barely work for it? No, the rich are wholly corrupt and I target them with a crew to make them pay up what they owe us. It’s for the good of the people what I do.”
 
+[[Tate]] is his brother.
 
 ![[Rowan2.jpg |200]]![[Rowan3.jpg]]![[Rowan4.jpg]]

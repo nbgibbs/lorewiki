@@ -12,3 +12,6 @@ Drawn to [[Gilden Reach]] by fancy stuff
 Oyster and Dove together [[Oyster_and_Dove.jpg|full size]]
 ![[Oyster_in_suit.jpg|250]]
 Oyster in a suit made by [[Taylor]] [[Oyster_in_suit.jpg| full size]]
+
+
+![[angryOyster.jpg]]

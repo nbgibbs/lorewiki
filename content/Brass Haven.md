@@ -1,3 +1,0 @@
-capitol 
-
-[[Brass Penitentiary]]

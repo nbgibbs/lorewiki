@@ -1,3 +1,6 @@
+---
+publish: true
+---
 here be wiki!!!
 
 ## Cities

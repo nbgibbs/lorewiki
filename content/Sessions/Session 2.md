@@ -1,1 +1,0 @@
-We fought [[2b]], almost died and extracted some memories from his head ([[2b]])

@@ -1,1 +1,0 @@
-Warforged uprising leader
